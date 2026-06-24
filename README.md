@@ -7,10 +7,10 @@ Welcome to **Fonty** – a sleek, highly customizable keyboard app designed for 
 <br clear="left"/>
 
 ## Features
-- **Neon Matrix Effects**: Beautiful trailing animations on keypress.
-- **Full Customization**: Change hue, saturation, and brightness for the perfect look.
-- **Dynamic Video Background**: Immerse yourself with live video backgrounds.
-- **Premium Aesthetics**: Bold, clean styling with a beautiful interface.
+- **50+ Custom Fonts**: Type in Gothic, Bubble, Math Bold, Hacker, and dozens more directly from your keyboard.
+- **100% Free & Open**: No ads, no paywalls, no "premium" subscriptions. Ever.
+- **Custom Video Backgrounds**: Personalize your typing experience with your own background videos.
+- **Pin Your Favorites**: Save your most-used fonts for instant access.
 
 ## Download & Install
 1. Go to the [Releases page](../../releases) or download the `Fonty.apk` file directly from this repository.
